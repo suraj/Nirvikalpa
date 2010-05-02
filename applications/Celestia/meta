@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.shatters.net/celestia/
+DOWNLOAD_URL=http://www.celestia.org/celestia.exe
+VERSION=1.6.0
+EXECUTABLE_NAME=celestia-win32-1.6.0.exe
+LINUX_NAME=celestia

@@ -1,0 +1,14 @@
+# Homepage of the application
+HOMEPAGE=http://www.example.com
+
+# Direct url to download.
+DOWNLOAD_URL=http://www.example.com/download/example.exe
+
+# Execuitable file name (may be exe, jar). The execuitable file will be given this name after download.
+EXECUTABLE_NAME=sample.exe
+
+# Version of the application
+VERSION=1.0
+
+# LINUX_NAME -> only alphanumeric
+LINUX_NAME=sample

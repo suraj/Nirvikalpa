@@ -1,0 +1,16 @@
+== About Celestia 1.6.0 ==
+Celestia is a free real-time space simulation that lets you experience the universe in three dimensions. Unlike most planetarium software, Celestia doesn't confine you to the surface of the Earth. You can travel throughout the solar system, to any of over 100,000 stars, or even beyond the galaxy. All travel in Celestia is seamless; the exponential zoom feature lets you explore space across a huge range of scales, from galaxy clusters down to spacecraft only a few meters across. A 'point-and-goto' interface makes it simple to navigate through the universe to the object you want to visit. Requires OpenGL and a 3D graphics card.
+{{images/celestia.png}}
+== Features ==
+=== View the solar system ===
+    Hover over each of the nine planets in our Solar System as they rotate slowly below you. See clouds actually drift by (where applicable). Look carefully and you may see mountains, canyons and craters on the planet surfaces with shadows being cast by them as the Sun sets low on the horizon.
+=== Travel forward and backwards in time ===
+    Travel back in time to witness a re-creation of what the Earth looked like billions of years ago. Be there as Orpheus, a planet the size of Mars crashes into it, creating our Moon and sending it into an orbit within a few thousand miles of Earth.
+=== Travel to the edges of our solar system and beyond ===
+    Fly out to the very edges of our Solar System, locate and follow Voyager 1 and Voyager 2 as they speed farther and farther away from their creators back on Earth, headed on a one way journey through the blackness of frigid space toward distant stars that will take them millions of years to reach. Set your ship at faster-than-light speed and sail to Rigel Kentaurus and B, located 4.3 light years from Earth. See if you can find their tiny red dwarf companion Proxima Centauri, the closest star to our own Sun, or choose to observe rotating sunspots on any of a whopping 2,000,000 other stars drawn by your computer in the Celestia universe (to see all of those stars, a separate add-on is required).
+=== Star Wars Galaxy ===
+    Are you a Star Wars fan? The Celestia community has made available for download an entire Star Wars solar system. Orbit the planet Tatooine and you will be amazed at the realism of its arid deserts. Fly via hyperjump over the ice world, Hoth or to the green world of Endor but be careful for tractor beams. Somewhere in that solar system will be the giant imperial Deathstar, glinting as the light from the system's yellow Sun actually reflects off its evil metallic skin as a huge Star Destroyer and imperial tie fighters keep guard.
+
+== Related links ==
+    * Celestia Motherlode The largest single collection of Celestia add-ons on the web.
+    * Selden's List of Resources for Celestia

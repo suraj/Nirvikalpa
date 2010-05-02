@@ -1,0 +1,16 @@
+Adding new application
+= = = = = = = = = = = = = 
+
+STEP 1:
+		To add new application copy the directory called SAMPLE and rename appropriately.
+
+		The directory hierarchy of the folder is:
+
+			|-- detail.wiki 				-> Write the details aboout the application in wiki format.
+			|-- images					-> put the images in this folder.
+			|   `-- sample.png			
+			`-- meta					-> Edit it appropriately.
+
+
+STEP 2:
+		Add this application under suitable category in index file.

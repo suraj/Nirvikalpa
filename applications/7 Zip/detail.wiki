@@ -1,0 +1,19 @@
+==About 7-Zip 4.65==
+7-Zip is a file archive utility that can compress and uncompress a variety of archive formats including: ZIP, CAB, RAR, ARJ, GZIP, BZIP2, Z, TAR, CPIO, RPM and DEB. Its own file compression format 7z, can compress files 30-70% better than ZIP files.
+{{images/7-zip.png}}
+==Features of 7-Zip 4.65==
+# Compresses ZIP files better than WinZip or Pkzip
+# 7-Zip compresses ZIP files 2-10 % better than PKZip and WinZip.
+# Self-extracting capability for 7z format
+# Create self-extracting EXE files from 7z files. Can be used as a simple installer (e.g extract files to temp folder, run SETUP.EXE).
+# Integrates with Windows Explorer
+# Right clicking on files and folders in Windows Explorer will show various actions that can be done by 7-Zip.
+# Command line version included
+# Useful for batch files to automate backup chores.
+
+==7-Zip related links==
+* [[http://www.granneman.com/techinfo/windows/7zipopensourcearchiving.htm | 7-Zip: An Open Source Archiving Tool]] An overview of how to install and use 7-Zip
+* [[http://sourceforge.net/forum/?group_id=14481 | 7-Zip mailing lists]]
+* [[http://www.7-zip.org/register.html | Donate to 7-Zip]] You can register 7-Zip to support further development
+
+

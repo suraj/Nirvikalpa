@@ -1,0 +1,217 @@
+body{
+	background: url("../siteImages/a.png") repeat-x scroll center top;
+	font-family:sans-serif;
+}
+
+#loading{
+	position: absolute;
+	margin:0 0 0 0;
+	left:80%;
+	z-index:20;
+	background-color: maroon;
+	color:yellow;
+	padding: 5px 20px 5px 20px;
+}
+
+.parent, .child{
+	cursor: pointer;
+}
+
+#wrap{
+	width:900px;
+	margin:0 auto 0 auto;
+	height: 90%;
+	background: url("../siteImages/watermark.png") no-repeat scroll center 50px;
+	min-height:750px;
+}
+
+.topbar{
+	height:5px;
+}
+
+#header{
+	height: 55px;
+	border-bottom: 1px solid  gray;
+	padding-top: 20px;
+	display: block;
+	background: url(../siteImages/nirvikalpa.png) no-repeat scroll left bottom;
+}
+
+#header div{
+	margin:30px 0 0 330px;
+	color: gray;
+}
+
+#menu{
+	width:240px;
+	margin-top:10px;
+	float:left;
+}
+
+#nav{
+	margin:0;
+	padding:5px 5px 5px 0px;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+#nav div{
+	color: teal;
+	height:1.3em;
+	border-bottom:2px solid #AAA;
+	padding:2px 2px 2px 8px;
+	font-size: 1.0em;
+}
+
+#nav div.dummy{
+	height:1.0em;
+	border-bottom:0px solid #AAA;
+}
+
+#nav div.active{
+	color:#34d;
+}
+
+#nav ul.child{
+	margin:0;
+	padding:2px;
+}
+
+#nav ul.child li{
+	height:1.2em;
+	border-bottom:1px solid #333;
+	padding:2px 2px 2px 15px;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	font-size: 0.8em;
+}
+
+#nav ul.child li:hover{
+	color:#34d;
+}
+
+#nav ul.child li.active{
+	color:#34d;
+}
+
+#core{
+	float:right;
+	width:640px;
+	position: relative;
+	margin:5px 5px 5px 15px;
+	min-height:88%;
+	font-size: 0.9em;
+}
+
+#footer{	
+	clear:both;
+	margin-top:5px;
+	border-top: 1px solid  grey;
+	text-align: center;
+	color:#999;
+	padding:2px auto 2px auto;	
+	font-size: 0.7em;
+}
+
+#footer a{
+	text-decoration: underline;
+	color:#999;
+}
+
+#buttons {
+	font-size: 0.8em;
+	margin-top:10px;
+}
+
+#buttons a{
+	color:#fff;
+}
+
+
+#buttons a b{
+	color:#dd0;
+}
+
+#homepageurl {
+	text-decoration: none;
+	margin-left:15px;
+	padding:3px 3px 3px 20px;
+	background: #0D527A url(../siteImages/home.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+#navInstall {
+	text-decoration: none;
+	padding:3px 3px 3px 20px;
+	background: #09661E url(../siteImages/install.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+#buttons firstclild{
+	margin-left:0px;
+}
+
+#core h2{
+	font-size: 1.1em;
+	text-decoration: underline;
+	margin:10px auto 5px auto;
+	color:#f00;
+}
+
+#core p{
+	margin:5px 0 5px 0;
+}
+
+#core dl, #content ul {
+	margin: 2px 0 0 0;
+}
+
+img {
+	padding:2px 2px 2px 2px;
+	border:1px solid #888;
+	background-color:#eee;
+	size:100%;
+	margin-left:40px;
+}
+
+span.link{
+	text-decoration: underline;
+	color:#34d;
+	cursor: pointer;
+}
+
+#disclaimer p{
+	margin:5px 0 5px 25px;
+}
+
+
+#relatedlinks a, #installnotes a{
+	text-decoration: none;
+	color:#34d;
+}
+
+#relatedlinks dt a, #installnotes dt a{
+	padding-left:20px;
+}
+
+#relatedlinks ul, #installnotes ul{
+	list-style-type: decimal;
+}
+
+.minibutton{
+	text-decoration: none;
+	padding:3px 3px 3px 20px;
+	background: #aa2 url(../siteImages/install.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+.minibutton b{
+	color:#ff0;
+}
+
+dt{
+	font-weight: bold;
+	font-style: italic;
+}
