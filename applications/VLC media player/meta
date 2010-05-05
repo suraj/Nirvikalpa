@@ -1,0 +1,5 @@
+HOMEPAGE=http://www.videolan.org
+DOWNLOAD_URL=http://www.videolan.org/mirror-geo.php?file=vlc/1.0.5/win32/vlc-1.0.5-win32.exe
+EXECUTABLE_NAME=vlc-1.0.5-win32.exe
+VERSION=1.0.5
+LINUX_NAME=videolan

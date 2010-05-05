@@ -1,0 +1,20 @@
+==About VLC==
+ VLC media player is a highly portable multimedia player supporting most audio and video formats (H.264, Ogg, DivX, MKV, TS, MPEG-2, mp3, MPEG-4, aac, ...) from files, physical media (DVDs, VCD, Audio-CD), TV capture cards and many network streaming protocols.
+ 
+It can also convert media files, transcode and act as a streaming server over unicast or multicast and IPv4 or IPv6. It doesn't need any external codec, program or codec pack to work. 
+{{images/videolan.png}}
+
+==Features==
+* **Video formats**: MPEG-1, MPEG-2, DivX 1/2/3 MPEG-4, DivX 5, XviD, 3ivXD4, OGM, Matroska, Sorenson (SVQ 1/3), DV, Cinepak, H263/H263i, MJPEG A/B, WMV 1/2, WMV 3, Indeo Video v3 (IV32).
+* **Audio Formats**: Wav, audio cd, WMA, DTS Wav, Raw DV, Raw AAC, Raw ac3/a52 audio, Raw DTS audio, FLAC audio.
+* **Other Formats**: DVD, VCD, AVI, ASF/WMV, Ogg/OGM/Annodex, Matroska, MP4, MOV.
+* **Subtitle formats**: MicroDVD, Vobsub, SubRIP, SubViewer (v1 & v2), SSA1-4.
+* **Supported Audio CODECs**: MPEG Layer 1 and 2, MP3, AC3, LPCM, AAC, Vorbis, WMA 1/2, ADPCM, DV Audio, FLAC, QDM2/QDMC (QuickTime).
+* **Miscellaneous**: Audio Visualization Effects, ID3 tags, skins support. 
+
+==VideoLAN related links==
+* [[http://www.videolan.org/doc|VLC documentation]] : Documetation is available in these formats: HTML, PDF, RTF, plain text.
+* [[http://www.videolan.org/vlc/download-skins2.html|VLC skins]]
+* [[http://wiki.videolan.org|Videolan wiki]]
+* [[http://forum.videolan.org|Videolan forum]]
+

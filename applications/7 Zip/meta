@@ -1,5 +1,5 @@
 HOMEPAGE=http://www.7-zip.org
-DOWNLOAD_URL=http://www.7-zip.org/7z465.exe
+DOWNLOAD_URL=http://downloads.sourceforge.net/project/sevenzip/7-Zip/4.65/7z465.exe?use_mirror=nchc
 VERSION=4.65
 EXECUTABLE_NAME=7z465.exe
 LINUX_NAME=7_zip
