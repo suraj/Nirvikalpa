@@ -2,6 +2,7 @@ body{
 	background: url("../siteImages/nirvikalpa_bg.png") repeat-x scroll center top #dbe8f4;
 	font:13px Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;
 	color:#516d81;
+	margin:0;
 }
 
 a{
@@ -120,6 +121,7 @@ p{
 	border-top:1px solid #CCCCCC;
 	border-left:1px solid #CCCCCC;
 	padding:3px;
+	cursor:pointer;
 }
 
 #nav ul.child{
@@ -154,15 +156,16 @@ p{
 
 #footer{	
 	clear:both;
+	background: url("../siteImages/footer_bg.png") repeat-x scroll center bottom #dbe8f4;
 	padding-top:15px;
-	border-top: 1px solid  grey;
 	text-align: center;
-	color:#999;	
+	color:#0545b1;
+	height:40px;
 }
 
 #footer a{
 	text-decoration: underline;
-	color:#999;
+	color:#0545b1;
 }
 
 #buttons {
