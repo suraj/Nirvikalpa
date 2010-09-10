@@ -34,6 +34,7 @@ p{
 	cursor:pointer;
 	width:249px;
 	background:#dbe8f4;
+	color:#0545B1;
 }
 
 #wrap{
@@ -69,7 +70,7 @@ p{
 
 #nav{
 	margin:0;
-	padding:5px 5px 5px 0px;
+	padding:0px 5px 5px 0px;
 	list-style-image:none;
 	list-style-position:outside;
 	list-style-type:none;
@@ -138,9 +139,9 @@ p{
 }
 
 #nav ul.child li.active{
-	text-decoration:underline;
-	color:#516d81;
+	color:#0545B1;
 	font-weight:bold;
+	text-decoration:underline;
 }
 
 #core{
@@ -166,6 +167,7 @@ p{
 
 #buttons {
 	margin-top:10px;
+	margin-bottom:15px;
 }
 
 #buttons a{
@@ -180,15 +182,15 @@ p{
 #homepageurl {
 	text-decoration: none;
 	margin-left:15px;
-	padding:3px 3px 3px 20px;
-	background: #0D527A url(../siteImages/home.ico) no-repeat scroll left center;
+	padding:5px 10px 5px 25px;
+	background: #0D527A url(../siteImages/home.ico) no-repeat scroll 5px center;
 	border:1px double  #e9b3b3;
 }
 
 #navInstall {
 	text-decoration: none;
-	padding:3px 3px 3px 20px;
-	background: #09661E url(../siteImages/install.ico) no-repeat scroll left center;
+	padding:5px 10px 5px 25px;
+	background: #09661E url(../siteImages/install.ico) no-repeat scroll 5px center;
 	border:1px double  #e9b3b3;
 }
 
