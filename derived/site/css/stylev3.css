@@ -1,0 +1,277 @@
+body{
+	background: url("../siteImages/nirvikalpa_bg.png") repeat-x scroll center top #dbe8f4;
+	font:13px Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;
+	color:#516d81;
+}
+
+a{
+	color:#516d81;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+p{
+	margin:0px;
+	line-height:20px;
+}
+
+#loading{
+	position: absolute;
+	margin:0 0 0 0;
+	left:80%;
+	z-index:20;
+	background-color: maroon;
+	color:yellow;
+	padding: 5px 20px 5px 20px;
+}
+
+.child{
+	border-right:1px solid #CCCCCC;
+	border-bottom:1px solid #CCCCCC;
+	border-left:1px solid #CCCCCC;
+	cursor:pointer;
+	width:249px;
+	background:#dbe8f4;
+}
+
+#wrap{
+	width:900px;
+	margin:0 auto 0 auto;
+	height: 90%;
+	background: url("../siteImages/watermark.png") no-repeat scroll center 100px;
+	min-height:750px;
+}
+
+.topbar{
+	height:5px;
+}
+
+#header{
+	height: 60px;
+	padding-top: 10px;
+	display: block;
+	margin-bottom:10px;
+	background: url(../siteImages/nirvikalpa.png) no-repeat scroll left bottom;
+}
+
+#header div{
+	margin:30px 0 0 330px;
+	color: gray;
+}
+
+#menu{
+	width:260px;
+	margin-top:10px;
+	float:left;
+}
+
+#nav{
+	margin:0;
+	padding:5px 5px 5px 0px;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+#nav li.about{
+	background:url("../siteImages/menu1_bg.png") repeat-x scroll center -25px transparent;
+	margin-bottom:10px;
+}
+
+#nav li.about.active{
+	background:url("../siteImages/menu1_bg.png") repeat-x scroll center top transparent;
+}
+
+#nav li.odd{
+	background:url("../siteImages/menu3_bg.png") repeat-x scroll center -25px transparent;
+	margin-top:5px;
+}
+
+#nav li.odd.active{
+	background:url("../siteImages/menu3_bg.png") repeat-x scroll center top transparent;
+}
+
+#nav li.even{
+	background:url("../siteImages/menu2_bg.png") repeat-x scroll center -25px transparent;
+	margin-top:5px;
+}
+
+#nav li.even.active{
+	background:url("../siteImages/menu2_bg.png") repeat-x scroll center top transparent;
+}
+
+#nav div.about{
+	color: teal;
+	height:1.3em;
+	border-bottom:2px solid #AAA;
+	padding:2px 2px 2px 8px;
+}
+
+#nav div.dummy{
+	height:1.0em;
+	border-bottom:0px solid #AAA;
+}
+
+#nav div.active, #nav div.parent{
+	border-right:1px solid #CCCCCC;
+	border-top:1px solid #CCCCCC;
+	border-left:1px solid #CCCCCC;
+	padding:3px;
+}
+
+#nav ul.child{
+	margin:0;
+	padding:2px;
+}
+
+#nav ul.child li{
+	padding:2px 2px 2px 15px;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
+
+#nav ul.child li:hover{
+	text-decoration:underline;
+}
+
+#nav ul.child li.active{
+	text-decoration:underline;
+	color:#516d81;
+	font-weight:bold;
+}
+
+#core{
+	float:right;
+	width:620px;
+	position: relative;
+	margin:5px 5px 20px 15px;
+	min-height:88%;
+}
+
+#footer{	
+	clear:both;
+	padding-top:15px;
+	border-top: 1px solid  grey;
+	text-align: center;
+	color:#999;	
+}
+
+#footer a{
+	text-decoration: underline;
+	color:#999;
+}
+
+#buttons {
+	margin-top:10px;
+}
+
+#buttons a{
+	color:#fff;
+}
+
+
+#buttons a b{
+	color:#dd0;
+}
+
+#homepageurl {
+	text-decoration: none;
+	margin-left:15px;
+	padding:3px 3px 3px 20px;
+	background: #0D527A url(../siteImages/home.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+#navInstall {
+	text-decoration: none;
+	padding:3px 3px 3px 20px;
+	background: #09661E url(../siteImages/install.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+#buttons firstclild{
+	margin-left:0px;
+}
+
+#core h2{
+	border-bottom:1px solid #000000;
+	color:#000000;
+	font-size:20px;
+	margin:10px auto 15px;
+}
+
+#core dl, #content ul {
+	margin: 2px 0 0 0;
+}
+
+#screenshot {
+	padding:2px 2px 2px 2px;
+	border:1px solid #888;
+	background-color:#eee;
+	size:100%;
+	margin-left:40px;
+}
+
+span.link{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#disclaimer p{
+	margin:5px 0 5px 25px;
+}
+
+
+#relatedlinks a, #installnotes a{
+	text-decoration: none;
+	color:#34d;
+}
+
+#relatedlinks dt a, #installnotes dt a{
+	padding-left:20px;
+}
+
+#relatedlinks ul, #installnotes ul{
+	list-style-type: decimal;
+}
+
+.minibutton{
+	text-decoration: none;
+	padding:3px 3px 3px 20px;
+	background: #aa2 url(../siteImages/install.ico) no-repeat scroll left center;
+	border:1px double  #e9b3b3;
+}
+
+.minibutton b{
+	color:#ff0;
+}
+
+dt{
+	font-weight: bold;
+	font-style: italic;
+}
+
+#requirements h2, #relatedlinks h2, #features h2{
+	font-size:16px;
+	color:#516D81;
+	font-weight:bold;
+}
+
+#relatedlinks li a{
+	color:#516d81;
+	font-weight:bold;
+}
+
+#relatedlinks li a:hover{
+	text-decoration:underline;
+}
+
+.menu-title{
+	color:#FFFFFF;
+	padding-left:15px;
+	cursor:pointer;
+
+}
